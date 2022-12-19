@@ -1,0 +1,16 @@
+#server:
+#  port: 9300
+#spring:
+#  application:
+#    name: springboot-couchbase
+#  couchbase:
+#    connection-string: "127.0.0.1"
+#    bucket:
+#      name: jcgassignment
+#      password: password_1
+#  data:
+#    couchbase:
+#      auto-index: true
+      
+      
+      
